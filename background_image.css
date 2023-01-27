@@ -1,0 +1,6 @@
+.bg-image {
+    background-image: url('images/image1.jpg');
+    background-clip: text;
+    text-align: center;
+  }
+  
